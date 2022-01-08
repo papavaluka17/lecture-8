@@ -1,0 +1,27 @@
+/*header*/
+
+.header{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	width: 1170px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+.fonts{
+	font-family: 'The Nautigal', cursive;
+	font-size: 35px;
+	color: black;
+}
+
+ul{
+	display: flex;
+	justify-content: space-between;
+	width: 700px;
+}
+
+.nav-a{
+	font-size: 15px;
+	color: black;
+}
